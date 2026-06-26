@@ -10,13 +10,13 @@
 
 ### Запуск
 
-```Python
+```Bash
 python order_module.py # Модуль 
 ```
 
 ### Тесты
 
-```Python
+```Bash
 python -m unittest test_order_module.py # Обычный прогон
 
 python -m unittest -v test_order_module.py # Подробный тест
